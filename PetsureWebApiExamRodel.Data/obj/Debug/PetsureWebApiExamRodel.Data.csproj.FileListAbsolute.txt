@@ -1,0 +1,15 @@
+C:\Users\Rodel\source\repos\PetsureWebApiExamRodel\PetsureWebApiExamRodel.Data\obj\Debug\PetsureWebApiExamRodel.Data.csprojAssemblyReference.cache
+C:\Users\Rodel\source\repos\PetsureWebApiExamRodel\PetsureWebApiExamRodel.Data\obj\Debug\PetsureWebApiExamRodel.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rodel\source\repos\PetsureWebApiExamRodel\PetsureWebApiExamRodel.Data\bin\Debug\PetsureWebApiExamRodel.Data.dll.config
+C:\Users\Rodel\source\repos\PetsureWebApiExamRodel\PetsureWebApiExamRodel.Data\bin\Debug\PetsureWebApiExamRodel.Data.dll
+C:\Users\Rodel\source\repos\PetsureWebApiExamRodel\PetsureWebApiExamRodel.Data\bin\Debug\PetsureWebApiExamRodel.Data.pdb
+C:\Users\Rodel\source\repos\PetsureWebApiExamRodel\PetsureWebApiExamRodel.Data\bin\Debug\EntityFramework.dll
+C:\Users\Rodel\source\repos\PetsureWebApiExamRodel\PetsureWebApiExamRodel.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodel\source\repos\PetsureWebApiExamRodel\PetsureWebApiExamRodel.Data\bin\Debug\EntityFramework.xml
+C:\Users\Rodel\source\repos\PetsureWebApiExamRodel\PetsureWebApiExamRodel.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodel\source\repos\PetsureWebApiExamRodel\PetsureWebApiExamRodel.Data\obj\Debug\PetsureWebApiExamRodel.Data.csproj.CopyComplete
+C:\Users\Rodel\source\repos\PetsureWebApiExamRodel\PetsureWebApiExamRodel.Data\obj\Debug\PetsureWebApiExamRodel.Data.dll
+C:\Users\Rodel\source\repos\PetsureWebApiExamRodel\PetsureWebApiExamRodel.Data\obj\Debug\PetsureWebApiExamRodel.Data.pdb
+C:\Users\Rodel\source\repos\PetsureWebApiExamRodel\PetsureWebApiExamRodel.Data\obj\Debug\PetsureWebApiExamRodel.Data.Migrations.initialMigration.resources
+C:\Users\Rodel\source\repos\PetsureWebApiExamRodel\PetsureWebApiExamRodel.Data\obj\Debug\PetsureWebApiExamRodel.Data.csproj.GenerateResource.cache
+C:\Users\Rodel\source\repos\PetsureWebApiExamRodel\PetsureWebApiExamRodel.Data\obj\Debug\PetsureWebApiExamRodel.Data.Migrations.seeding.resources
